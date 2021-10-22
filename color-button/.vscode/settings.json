@@ -1,0 +1,13 @@
+{
+    "eslint.options": {
+        "configFile" : ".eslintrc.json"
+    },
+    "eslint.validate": ["javasscript", "javascriptreact"],
+    "eslint.codeActionsOnSave": {
+        "source.fixAll.eslint" : true
+    },
+    "eslint.alwaysShowStatus": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+    
+}
